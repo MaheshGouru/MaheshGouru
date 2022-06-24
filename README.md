@@ -1,16 +1,21 @@
-### Hi there 👋
+### 👋 Hi! I'm Mahesh.
+- 📚 I study CS.
+- 🔭 I'm currently working on:
+  - Improving the number of available packages in Nixpkgs on macOS.
+  - Working through [Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
+- 🥰 I'm currently obsessed with tree-sitter.
+- 🌱 I'm currently learning about model checking, logic, foundations and connections between category theory and functional programming.
+- 🙌 I'm looking to collaborate on large scale functional programming projects and formal verification efforts.
+- 🤔 I'm looking for help with organizing and developing mathematical theories in Coq.
+- 📫 How to reach me: Don't lol!
 
-<!--
-**MaheshGouru/MaheshGouru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
 
-Here are some ideas to get you started:
+Nix, Emacs, Haskell, Coq, Rust, Scheme, C, Forth, Assembly, Z80, Z3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mathematics
+
+type theory, category theory, logic, abstract algebra, topology, measure theory...simple things
+
+---
+![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=maheshgouru&count_private=true&show_icons=true)
